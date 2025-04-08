@@ -7,7 +7,7 @@
 - **Backend:** Node.js + Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens) + OAuth
-- **Hosting:** Vercel 
+- **Hosting:** Vercel  https://elevate-magazine.vercel.app/
 
 ## 🚀 Setup & Installation
 ### Prerequisites
